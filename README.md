@@ -1,10 +1,11 @@
 # School 12th grade
-This repository is for all code written in the 11th grade of the Technical High School in [Biberach](https://www.kas-bc.de/bildungsangebote/tg/it/). 
+This repository is for all code written in the 12th grade of the Technical High School in [Biberach](https://www.kas-bc.de/bildungsangebote/tg/it/). 
 Teaching takes place according to the regular [school curriculum](http://www.bildungsplaene-bw.de/InfTech_OS) of the state of Baden-Wuerttenberg.
 
-## Planned Projects
-- [ ] Define Project topics
-- [ ] Define Scope
+## Main Topics
+- OOP
+- Databases
+
 ## Used programming languages
 - Assembler (x86/64 & RISC-V)
 - C

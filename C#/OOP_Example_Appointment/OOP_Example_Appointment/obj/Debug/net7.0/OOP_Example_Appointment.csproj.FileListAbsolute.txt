@@ -1,0 +1,15 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\OOP_Example_Appointment\OOP_Example_Appointment\bin\Debug\net7.0\OOP_Example_Appointment.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\OOP_Example_Appointment\OOP_Example_Appointment\bin\Debug\net7.0\OOP_Example_Appointment.deps.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\OOP_Example_Appointment\OOP_Example_Appointment\bin\Debug\net7.0\OOP_Example_Appointment.runtimeconfig.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\OOP_Example_Appointment\OOP_Example_Appointment\bin\Debug\net7.0\OOP_Example_Appointment.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\OOP_Example_Appointment\OOP_Example_Appointment\bin\Debug\net7.0\OOP_Example_Appointment.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\OOP_Example_Appointment\OOP_Example_Appointment\obj\Debug\net7.0\OOP_Example_Appointment.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\OOP_Example_Appointment\OOP_Example_Appointment\obj\Debug\net7.0\OOP_Example_Appointment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\OOP_Example_Appointment\OOP_Example_Appointment\obj\Debug\net7.0\OOP_Example_Appointment.AssemblyInfoInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\OOP_Example_Appointment\OOP_Example_Appointment\obj\Debug\net7.0\OOP_Example_Appointment.AssemblyInfo.cs
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\OOP_Example_Appointment\OOP_Example_Appointment\obj\Debug\net7.0\OOP_Example_Appointment.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\OOP_Example_Appointment\OOP_Example_Appointment\obj\Debug\net7.0\OOP_Example_Appointment.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\OOP_Example_Appointment\OOP_Example_Appointment\obj\Debug\net7.0\refint\OOP_Example_Appointment.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\OOP_Example_Appointment\OOP_Example_Appointment\obj\Debug\net7.0\OOP_Example_Appointment.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\OOP_Example_Appointment\OOP_Example_Appointment\obj\Debug\net7.0\OOP_Example_Appointment.genruntimeconfig.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\OOP_Example_Appointment\OOP_Example_Appointment\obj\Debug\net7.0\ref\OOP_Example_Appointment.dll
