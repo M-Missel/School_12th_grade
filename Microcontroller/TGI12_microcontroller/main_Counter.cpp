@@ -5,11 +5,6 @@
  */
 
 #include "mbed.h"
-// Blinking rate in milliseconds
-#define SLEEP_RATE          500ms
-#define BLINKING_ON         led = 1
-#define BLINKING_OFF        led = 0
-#define sleep               ThisThread::sleep_for
 
 int main()
 {

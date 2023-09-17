@@ -1,4 +1,4 @@
-#if 0
+#if 1
 /* mbed Microcontroller Library
  * Copyright (c) 2019 ARM Limited
  * SPDX-License-Identifier: Apache-2.0
@@ -7,10 +7,6 @@
 #include "mbed.h"
 #include <cstdint>
 // Blinking rate in milliseconds
-#define BLINKING_RATE       500ms
-#define BLINKING_ON         led = 1
-#define BLINKING_OFF        led = 0
-#define sleep               ThisThread::sleep_for
 
 DigitalOut led(LED1);
 
