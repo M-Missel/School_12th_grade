@@ -27,8 +27,10 @@ int main()
 
     while (1) {
         while(button == 0){
+            sleep(100);
             ;
         }
+        
         ledband = values[i];
         i++;
         i = 1 % 8;

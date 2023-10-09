@@ -1,19 +1,18 @@
-﻿
-Operation waehlePferd():GZ
+﻿Operation waehlePferd():GZ
 	Zufall zufall <- neuer Zufall
-	RÜckgabe zufall (0 BIS 10)
+	RÜCKGABE zufall (0 BIS 10)
 	
 Operation endeRennen():BOOLEAN
 	GZ Zaehler <- 0
 
 	FÜR i <- 0 BIS LaengeArray Schritt 1
-		WENN PferdeArray[i] == LaengeStrecke
+		WENN PferdeArray[i].Position == LaengeStrecke
 			Zaehler <- Zaehler + 1
 
 	WENN Zaehler == 10
-		Rückgabe wahr
+		RÜCKGABE wahr
 	SONST 
-		Rückgabe falsch
+		RÜCKGABE falsch
 
 Operation starteRennen()
 	// Operation initPferde()
@@ -21,7 +20,7 @@ Operation starteRennen()
 	GZ AuswahlPferd
 
 	WÄHREND endeRennen == falsch
-		AuswahlPferde <- wahelePferd()
+		AuswahlPferde <- waehlePferd()
 		
 		WENN PferdeArray[AuswahlPferde].Position < LaengeStrecke
 			PferdeArray[AuswahlPferde].BewegePferd

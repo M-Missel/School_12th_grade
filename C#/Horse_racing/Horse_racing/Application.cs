@@ -34,7 +34,7 @@ namespace Horse_racing
 
                     if (horses[selectedHorse].Position < lenghtTrack - 10)
                         checkWinner(selectedHorse);
-                    
+
                     endRace();
                 }
             }
@@ -45,11 +45,11 @@ namespace Horse_racing
             reset = false;
 
             for (int i = 0; i < horses.Length; i++)
-            {
                 horses[i] = null;
-            }
 
             GC.Collect();
+
+
         }
 
         private void endRace()
@@ -65,7 +65,7 @@ namespace Horse_racing
         private int selectHorse()
         {
             Random random = new Random();
-            return random.Next(0,10);
+            return random.Next(0, 10);
         }
 
         private void checkWinner(int index)
@@ -74,8 +74,8 @@ namespace Horse_racing
 
             for (int i = 0; i < horses.Length; i++)
                 counter = (horses[i].Position == 500) ? counter++ : counter;
-            
-            if(counter == 0)
+
+            if (counter == 0)
                 horses[index].Winner = true;
         }
     }

@@ -12,7 +12,6 @@ namespace Horse_racing
 {
     public partial class GUI : Form
     {
-
         Application application = new Application();
 
         public GUI()

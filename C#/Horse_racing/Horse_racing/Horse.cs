@@ -12,7 +12,8 @@ namespace Horse_racing
         private int _number;
         private bool _winner;
 
-        public Horse(int number) {
+        public Horse(int number)
+        {
             _position = 0;
             _number = number;
         }
