@@ -1,0 +1,11 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\ContactList\ContactList\obj\Debug\ContactList.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\ContactList\ContactList\obj\Debug\ContactList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\ContactList\ContactList\obj\Debug\ContactList.GUI.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\ContactList\ContactList\obj\Debug\ContactList.Properties.Resources.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\ContactList\ContactList\obj\Debug\ContactList.csproj.GenerateResource.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\ContactList\ContactList\obj\Debug\ContactList.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\ContactList\ContactList\bin\Debug\ContactList.exe.config
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\ContactList\ContactList\bin\Debug\ContactList.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\ContactList\ContactList\bin\Debug\ContactList.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\ContactList\ContactList\obj\Debug\ContactList.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\ContactList\ContactList\obj\Debug\ContactList.pdb
