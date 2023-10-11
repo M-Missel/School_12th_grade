@@ -13,6 +13,7 @@ int main()
     DigitalIn button(PA_6);
 
     DigitalOut seg7_ones_onoff(PC_11, 1);
+    DigitalOut seg7_tens_onoff(PC_12, 0);
     
     const uint8_t seg7values[]={
         0x3F,
@@ -30,10 +31,16 @@ int main()
     int i = 0;
 
     while (1) {
-        seg7display.write(seg7values[i]);
-        i += 9;
-        i = i % 10;
-        sleep(1000);
+        seg7_ones_onoff.write(0x3F);
+        sleep(20);
+        
+        seg7_ones_onoff = 0;
+        seg7_tens_onoff = 1;
+        seg7_tens_onoff.write(0x06);
+        sleep(20);
+
+        seg7_ones_onoff = 1;
+        seg7_tens_onoff = 0;
     }
 }
 

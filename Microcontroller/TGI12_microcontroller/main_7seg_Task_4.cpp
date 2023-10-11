@@ -20,8 +20,8 @@ int main()
         0x5B,
         0x4F,
         0x66,
-        0x6F,
-        0x7A,
+        0x6D,
+        0x7D,
         0x07, 
         0x7F,
         0x67
@@ -31,7 +31,7 @@ int main()
 
     while (1) {
         seg7display.write(seg7values[i]);
-        i += 9;
+        i++;
         i = i % 10;
         sleep(10);
 

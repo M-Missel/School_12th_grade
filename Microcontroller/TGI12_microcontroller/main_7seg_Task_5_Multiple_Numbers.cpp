@@ -6,6 +6,7 @@
 
 #include "mbed.h"
 #include <cstdint>
+#include <iterator>
 
 int main()
 {
@@ -13,6 +14,7 @@ int main()
     DigitalIn button(PA_6);
 
     DigitalOut seg7_ones_onoff(PC_11, 1);
+    DigitalOut seg7_tens_onoff(PC_12, 0);
     
     const uint8_t seg7values[]={
         0x3F,
@@ -27,13 +29,10 @@ int main()
         0x67
     };
 
-    int i = 0;
+    int k = 0;
 
     while (1) {
-        seg7display.write(seg7values[i]);
-        i += 9;
-        i = i % 10;
-        sleep(1000);
+        //ToDo
     }
 }
 
