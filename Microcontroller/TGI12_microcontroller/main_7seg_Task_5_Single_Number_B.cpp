@@ -31,13 +31,13 @@ int main()
     int i = 0;
 
     while (1) {
-        seg7_ones_onoff.write(0x3F);
-        sleep(20);
+        seg7_ones_onoff.write(0x07);
+        sleep(10);
         
         seg7_ones_onoff = 0;
         seg7_tens_onoff = 1;
-        seg7_tens_onoff.write(0x06);
-        sleep(20);
+        seg7_tens_onoff.write(0x7F);
+        sleep(10);
 
         seg7_ones_onoff = 1;
         seg7_tens_onoff = 0;

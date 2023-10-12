@@ -1,4 +1,4 @@
-#if 0
+#if 1
 /* mbed Microcontroller Library
  * Copyright (c) 2019 ARM Limited
  * SPDX-License-Identifier: Apache-2.0
@@ -29,10 +29,23 @@ int main()
         0x67
     };
 
-    int k = 0;
-
     while (1) {
-        //ToDo
+        for(int i = 0; i < end(seg7values) - begin(seg7values); i++){
+            for(int k = 0; k < end(seg7values) - begin(seg7values); k++){
+                for(int l = 0; l < 50; l++){
+                    seg7_ones_onoff.write(seg7values[k]);
+                    sleep(10);
+                    
+                    seg7_ones_onoff = 0;
+                    seg7_tens_onoff = 1;
+                    seg7_tens_onoff.write(seg7values[i]);
+                    sleep(10);
+
+                    seg7_ones_onoff = 1;
+                    seg7_tens_onoff = 0;
+                }
+            }
+        }
     }
 }
 
