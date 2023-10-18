@@ -1,4 +1,4 @@
-#if 1
+#if 0
 /* mbed Microcontroller Library
  * Copyright (c) 2019 ARM Limited
  * SPDX-License-Identifier: Apache-2.0
@@ -14,7 +14,7 @@ int main()
     DigitalIn button(PA_6);
 
     DigitalOut seg7_ones_onoff(PC_11, 1);
-    DigitalOut seg7_tens_onoff(PC_12, 0);
+
     
     const uint8_t seg7values[]={
         0x3F,
