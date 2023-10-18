@@ -30,7 +30,7 @@ int main()
 
     while (1) {
         while(button == 1)
-            seg7Display.write(flip(k));
+            seg7Display.write(flip(seg7values[k]));
 
         k = k % 9;
         k++;
