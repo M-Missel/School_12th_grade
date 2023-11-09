@@ -1,0 +1,11 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\DiceGame\DiceGame\bin\Debug\DiceGame.exe.config
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\DiceGame\DiceGame\obj\Debug\DiceGame.GUI.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\DiceGame\DiceGame\obj\Debug\DiceGame.Properties.Resources.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.GenerateResource.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\DiceGame\DiceGame\obj\Debug\DiceGame.pdb
