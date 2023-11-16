@@ -14,11 +14,11 @@ DigitalOut led(PC_1, 1);
 
 int main()
 {
-    int inputValue;
+    int inputValue = 0;
     while (1) {
         inputValue = input.read() & ANDMASK;
 
-        if(inputValue == 36)
+        if(inputValue == 26)
             led.write(1);
         else
             led.write(0);

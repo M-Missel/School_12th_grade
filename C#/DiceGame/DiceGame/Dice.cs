@@ -9,11 +9,12 @@ namespace DiceGame
     internal class Dice
     {
         private int numberEyes;
-
+        private Random rnd = new Random();
+        
         public void roll()
         {
-            Random rnd = new Random();
             numberEyes = rnd.Next(1, 7);
+            Console.WriteLine(numberEyes);
         }
 
         public int NumberEyes
