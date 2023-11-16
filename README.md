@@ -3,13 +3,14 @@ This repository is for all code written in the 12th grade of the Technical High 
 Teaching takes place according to the regular [school curriculum](http://www.bildungsplaene-bw.de/InfTech_OS) of the state of Baden-Wuerttenberg.
 
 ## Main Topics
-- OOP
+- Software Architecture & programming paradigms
+- Embedded systems & Digital Engineering
 - Databases
 
 ## Used programming languages
-- Assembler (x86/64 & RISC-V)
 - C
 - C++
+- C#
 
 ## Credit
 All code was written by Moritz Missel and can be used for educational purposes. For commercial use a confirmation from Moritz Missel is required
