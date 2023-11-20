@@ -10,7 +10,7 @@
 #include <cstdint>
 #include <cstdio>
 
-AnalogIn ain(PA_0);
+AnalogIn ain(PA_0, 0);
 
 int main()
 {
@@ -33,7 +33,7 @@ int main()
         roundedRawValue = floor(rawValue * 1000);
         roundedRawValue = roundedRawValue / 1000;
         printf("rawValue rounded = %5.3f \n", roundedRawValue);
-        sleep(4000);
+        sleep(4s);
     }
 }
 
