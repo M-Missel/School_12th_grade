@@ -8,5 +8,6 @@ namespace CD_Changer
 {
     internal class AudioCD
     {
+        private
     }
 }
