@@ -12,3 +12,19 @@ Create a program that can determine the integral of the following functions:
 2. Create a sequence diagram for the sequence that an user wanted the integral of a parabolic equation
 3. Write the pseudo code for the operation calcArea
 4. Optimize the pseudo code of task 3
+
+## Task 1
+
+// TODO
+
+## Task 2
+
+![Class Diagram](Task_2/Task_2_Image.png)
+
+## Task 3
+
+// TODO
+
+## Task 4 
+
+// TODO
