@@ -1,0 +1,11 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\Horse_racing\Horse_racing\bin\Debug\Horse_racing.exe.config
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\Horse_racing\Horse_racing\bin\Debug\Horse_racing.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\Horse_racing\Horse_racing\bin\Debug\Horse_racing.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\Horse_racing\Horse_racing\obj\Debug\Horse_racing.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\Horse_racing\Horse_racing\obj\Debug\Horse_racing.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\Horse_racing\Horse_racing\obj\Debug\Horse_racing.GUI.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\Horse_racing\Horse_racing\obj\Debug\Horse_racing.Properties.Resources.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\Horse_racing\Horse_racing\obj\Debug\Horse_racing.csproj.GenerateResource.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\Horse_racing\Horse_racing\obj\Debug\Horse_racing.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\Horse_racing\Horse_racing\obj\Debug\Horse_racing.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\Horse_racing\Horse_racing\obj\Debug\Horse_racing.pdb

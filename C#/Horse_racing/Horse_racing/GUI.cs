@@ -12,27 +12,26 @@ namespace Horse_racing
 {
     public partial class GUI : Form
     {
-        Application application = new Application();
+        private ApplicationLayer applicationLayer;
+        private Graphics graphics;
 
         public GUI()
         {
             InitializeComponent();
-            application.initHorses();
+            graphics = PB_Track.CreateGraphics();
+            applicationLayer = new ApplicationLayer(this);
         }
 
-        public void BTN_Start_Click(object sender, EventArgs e)
+        private void BTN_Start_Click(object sender, EventArgs e)
         {
-            application.startRace();
+            applicationLayer.startRace();
         }
 
         public void updateHorse(int pos, int nr)
         {
-            // ToDo
-        }
-
-        public void BTN_Reset_Click(object sender, EventArgs e)
-        {
-            // ToDo
+            int size = 25, space = 5;
+            graphics.DrawRectangle(Pens.White, pos -1, nr*(size+space)-1, space+2, size+2);
+            graphics.FillRectangle(Brushes.Blue, pos, nr*(size+space), size, size);
         }
     }
 }

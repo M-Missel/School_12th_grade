@@ -8,34 +8,20 @@ namespace Horse_racing
 {
     internal class Horse
     {
-        private int _position;
-        private int _number;
-        private bool _winner;
+        private int pos;
+        private int nr;
 
-        public Horse(int number)
+        public Horse(int nr)
         {
-            _position = 0;
-            _number = number;
+            pos = 0;
+            this.nr = nr;
         }
 
-        public void moveHorse()
+        public void move()
         {
-            _position += 5;
+            pos++;
         }
 
-        public int Position
-        {
-            get { return _position; }
-        }
-
-        public int Number
-        {
-            get { return _number; }
-        }
-
-        public bool Winner
-        {
-            set => _winner = value;
-        }
+        public int getPos() => pos;
     }
 }
