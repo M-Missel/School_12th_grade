@@ -1,0 +1,11 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\Integral\Integral\bin\Debug\Integral.exe.config
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\Integral\Integral\bin\Debug\Integral.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\Integral\Integral\bin\Debug\Integral.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\Integral\Integral\obj\Debug\Integral.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\Integral\Integral\obj\Debug\Integral.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\Integral\Integral\obj\Debug\Integral.GUI.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\Integral\Integral\obj\Debug\Integral.Properties.Resources.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\Integral\Integral\obj\Debug\Integral.csproj.GenerateResource.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\Integral\Integral\obj\Debug\Integral.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\Integral\Integral\obj\Debug\Integral.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\Integral\Integral\obj\Debug\Integral.pdb

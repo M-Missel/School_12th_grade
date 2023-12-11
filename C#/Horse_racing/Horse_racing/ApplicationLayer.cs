@@ -12,7 +12,7 @@ namespace Horse_racing
     {
         private ApplicationLayer applicationLayer;
         private GUI gui;
-        private Random random;
+        private Random random = new Random();
         private Timer timer;
 
         private int lenghtTrack;
@@ -30,7 +30,7 @@ namespace Horse_racing
 
             timer = new Timer();
             timer.Enabled = false;
-            timer.Interval = 10;
+            timer.Interval = 100;
             timer.Tick += new EventHandler(nextstep);
         }
 
@@ -43,7 +43,7 @@ namespace Horse_racing
 
         private int selectHorse()
         {
-            return random.Next(0,10);
+            return random.Next(0, 10);
         }
 
         private bool endRace()
