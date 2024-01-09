@@ -1,0 +1,11 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\OOP_Inheritance\OOP_Multiple_Inheritance\OOP_Multiple_Inheritance\bin\Debug\OOP_Multiple_Inheritance.exe.config
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\OOP_Inheritance\OOP_Multiple_Inheritance\OOP_Multiple_Inheritance\bin\Debug\OOP_Multiple_Inheritance.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\OOP_Inheritance\OOP_Multiple_Inheritance\OOP_Multiple_Inheritance\bin\Debug\OOP_Multiple_Inheritance.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\OOP_Inheritance\OOP_Multiple_Inheritance\OOP_Multiple_Inheritance\obj\Debug\OOP_Multiple_Inheritance.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\OOP_Inheritance\OOP_Multiple_Inheritance\OOP_Multiple_Inheritance\obj\Debug\OOP_Multiple_Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\OOP_Inheritance\OOP_Multiple_Inheritance\OOP_Multiple_Inheritance\obj\Debug\OOP_Multiple_Inheritance.Form1.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\OOP_Inheritance\OOP_Multiple_Inheritance\OOP_Multiple_Inheritance\obj\Debug\OOP_Multiple_Inheritance.Properties.Resources.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\OOP_Inheritance\OOP_Multiple_Inheritance\OOP_Multiple_Inheritance\obj\Debug\OOP_Multiple_Inheritance.csproj.GenerateResource.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\OOP_Inheritance\OOP_Multiple_Inheritance\OOP_Multiple_Inheritance\obj\Debug\OOP_Multiple_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\OOP_Inheritance\OOP_Multiple_Inheritance\OOP_Multiple_Inheritance\obj\Debug\OOP_Multiple_Inheritance.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_12th_grade\C#\OOP_Inheritance\OOP_Multiple_Inheritance\OOP_Multiple_Inheritance\obj\Debug\OOP_Multiple_Inheritance.pdb
