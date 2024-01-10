@@ -27,7 +27,7 @@ namespace OOP_Multiple_Inheritance
             person = new Person(TB_Name.Text, Convert.ToInt32(TB_Age.Text));
         }
 
-        public void B_getPerson(object sender, EventArgs e)
+        public void B_getPerson()
         {
             MessageBox.Show($"Person: \n {person.Name}, {person.Age}");
         }
@@ -37,7 +37,7 @@ namespace OOP_Multiple_Inheritance
             student = new Student(TB_Name.Text, Convert.ToInt32(TB_Age.Text), TB_Class.Text);
         }
 
-        public void B_getStudent(object sender, EventArgs e)
+        public void B_getStudent()
         {
             MessageBox.Show($"Student: \n {student.Name}, {student.Age}, {student.Class}");
         }
@@ -47,7 +47,7 @@ namespace OOP_Multiple_Inheritance
             teacher = new Teacher(TB_Name.Text, Convert.ToInt32(TB_Age.Text), TB_Subject.Text);
         }
 
-        public void B_getTeacher(object sender, EventArgs e)
+        public void B_getTeacher()
         {
             MessageBox.Show($"Student: \n {teacher.Name}, {teacher.Age}, {teacher.Subject}");
         }
