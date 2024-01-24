@@ -7,6 +7,13 @@ using System.Windows.Forms;
 
 namespace Integral
 {
+    public enum Funktionstyp
+    {
+        gerade,
+        parabel,
+        sinus
+    }
+
     internal class ApplicationLayer
     {
         private GUI gui;

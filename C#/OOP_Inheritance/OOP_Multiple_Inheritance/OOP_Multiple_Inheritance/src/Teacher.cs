@@ -12,8 +12,6 @@ namespace OOP_Multiple_Inheritance.src
 
         public Teacher(string name, int age, string subject) : base(name, age) 
         {
-            this.name = name;
-            this.age = age;
             this.subject = subject;
         }
 
