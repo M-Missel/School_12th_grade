@@ -5,15 +5,25 @@
  */
 
 #include "mbed.h"
+#include <cstdio>
+
+DigitalOut led(LED1);
 
 void timer_init();
 
 int main()
 {
-    //Initialise the digital pins
+    int time = 0;
+    timer_init();
 
-    while (1) {
-        //Custom Code
+    TIM6->CR1 &= ~(1<<0);
+
+    while (time < 10) {
+        if(TIM6->SR != 0){
+            led != led;
+            TIM6->SR = 0;
+            time++;
+        }
     }
 }
 
@@ -24,7 +34,7 @@ void timer_init(void){
     TIM6->CNT = 0;
     TIM6->SR = 0;
     TIM6->DIER = 0;
-    TIM6->CR1 &= ~(1<<0);
+    //TIM6->CR1 &= ~(1<<0);
     TIM6->CR1 |= 1 << 2;
     TIM6->EGR = 1;
 }

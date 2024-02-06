@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bc42a9e2-dd03-4644-9b59-27cc628c85fc": {
+      "ProjectGuid": "bc42a9e2-dd03-4644-9b59-27cc628c85fc",
+      "DisplayName": "pacman",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
