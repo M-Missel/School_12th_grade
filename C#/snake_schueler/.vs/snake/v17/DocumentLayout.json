@@ -1,0 +1,42 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dietmar\\schule\\inf12\\14_snake_schueler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Snake||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793A52C3-D435-4851-BC79-4A4A5D65A3EC}|Snake.csproj|e:\\dietmar\\schule\\inf12\\14_snake_schueler\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Snake",
+              "DocumentMoniker": "E:\\dietmar\\schule\\inf12\\14_snake_schueler\\Snake.csproj",
+              "RelativeDocumentMoniker": "Snake.csproj",
+              "ToolTip": "E:\\dietmar\\schule\\inf12\\14_snake_schueler\\Snake.csproj",
+              "RelativeToolTip": "Snake.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-20T06:42:51.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

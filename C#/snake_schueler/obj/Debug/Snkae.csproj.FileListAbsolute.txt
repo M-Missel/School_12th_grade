@@ -1,0 +1,12 @@
+E:\dietmar\c#\snake\bin\Debug\tictactoe.exe.config
+E:\dietmar\c#\snake\bin\Debug\tictactoe.exe
+E:\dietmar\c#\snake\bin\Debug\tictactoe.pdb
+E:\dietmar\c#\snake\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+E:\dietmar\c#\snake\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+E:\dietmar\c#\snake\obj\Debug\Snkae.csprojResolveAssemblyReference.cache
+E:\dietmar\c#\snake\obj\Debug\tictactoe.GUI.resources
+E:\dietmar\c#\snake\obj\Debug\tictactoe.Properties.Resources.resources
+E:\dietmar\c#\snake\obj\Debug\Snkae.csproj.GenerateResource.Cache
+E:\dietmar\c#\snake\obj\Debug\Snkae.csproj.CoreCompileInputs.cache
+E:\dietmar\c#\snake\obj\Debug\tictactoe.exe
+E:\dietmar\c#\snake\obj\Debug\tictactoe.pdb

@@ -1,0 +1,10 @@
+E:\dietmar\c#\tictactoe\tictactoe\bin\Debug\tictactoe.exe.config
+E:\dietmar\c#\tictactoe\tictactoe\bin\Debug\tictactoe.exe
+E:\dietmar\c#\tictactoe\tictactoe\bin\Debug\tictactoe.pdb
+E:\dietmar\c#\tictactoe\tictactoe\bin\Debug\StringGrid.dll
+E:\dietmar\c#\tictactoe\tictactoe\obj\Debug\tictactoe.csprojResolveAssemblyReference.cache
+E:\dietmar\c#\tictactoe\tictactoe\obj\Debug\tictactoe.Form1.resources
+E:\dietmar\c#\tictactoe\tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
+E:\dietmar\c#\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.Cache
+E:\dietmar\c#\tictactoe\tictactoe\obj\Debug\tictactoe.exe
+E:\dietmar\c#\tictactoe\tictactoe\obj\Debug\tictactoe.pdb
